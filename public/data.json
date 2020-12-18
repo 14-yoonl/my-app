@@ -1,0 +1,365 @@
+{
+  "result": [
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1597135768264000\"",
+      "id": "david.lee@gracefulrain.co",
+      "summary": "david.lee@gracefulrain.co",
+      "timeZone": "Asia/Seoul",
+      "colorId": "1",
+      "backgroundColor": "#ac725e",
+      "foregroundColor": "#000000",
+      "accessRole": "reader",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1597135770219000\"",
+      "id": "summer@gracefulrain.co",
+      "summary": "summer@gracefulrain.co",
+      "timeZone": "Asia/Seoul",
+      "colorId": "12",
+      "backgroundColor": "#fad165",
+      "foregroundColor": "#000000",
+      "accessRole": "reader",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1597135772197000\"",
+      "id": "hyo@gracefulrain.co",
+      "summary": "hyo@gracefulrain.co",
+      "timeZone": "Asia/Seoul",
+      "colorId": "22",
+      "backgroundColor": "#f691b2",
+      "foregroundColor": "#000000",
+      "accessRole": "reader",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1597135772590000\"",
+      "id": "james@gracefulrain.co",
+      "summary": "james@gracefulrain.co",
+      "timeZone": "Asia/Seoul",
+      "colorId": "21",
+      "backgroundColor": "#cca6ac",
+      "foregroundColor": "#000000",
+      "accessRole": "reader",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1597135773067000\"",
+      "id": "joonsikyang@gracefulrain.co",
+      "summary": "joonsikyang@gracefulrain.co",
+      "timeZone": "Asia/Seoul",
+      "colorId": "3",
+      "backgroundColor": "#f83a22",
+      "foregroundColor": "#000000",
+      "accessRole": "reader",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1604851190298000\"",
+      "id": "yerikim@gracefulrain.co",
+      "summary": "yerikim@gracefulrain.co",
+      "timeZone": "Asia/Seoul",
+      "colorId": "17",
+      "backgroundColor": "#9a9cff",
+      "foregroundColor": "#000000",
+      "accessRole": "reader",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1604852922862000\"",
+      "id": "doori.alice.kim@gracefulrain.co",
+      "summary": "doori.alice.kim@gracefulrain.co",
+      "timeZone": "Asia/Seoul",
+      "colorId": "23",
+      "backgroundColor": "#cd74e6",
+      "foregroundColor": "#000000",
+      "accessRole": "reader",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1605453363372000\"",
+      "id": "eun@gracefulrain.co",
+      "summary": "Eun Woo Song",
+      "timeZone": "Asia/Seoul",
+      "colorId": "19",
+      "backgroundColor": "#c2c2c2",
+      "foregroundColor": "#000000",
+      "accessRole": "reader",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1606281263784000\"",
+      "id": "gracefulrain.co_pbr2jhb81f5nj0ho3ptmrvpv0k@group.calendar.google.com",
+      "summary": "Wecode Bootcamp",
+      "description": "Wecode Bootcamp Calendar",
+      "timeZone": "Asia/Seoul",
+      "colorId": "21",
+      "backgroundColor": "#cca6ac",
+      "foregroundColor": "#000000",
+      "accessRole": "owner",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1606281264379000\"",
+      "id": "en.south_korea#holiday@group.v.calendar.google.com",
+      "summary": "Holidays in Republic of Korea",
+      "description": "Holidays and Observances in Republic of Korea",
+      "timeZone": "Asia/Seoul",
+      "colorId": "8",
+      "backgroundColor": "#16a765",
+      "foregroundColor": "#000000",
+      "accessRole": "reader",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1606629776570000\"",
+      "id": "addressbook#contacts@group.v.calendar.google.com",
+      "summary": "Birthdays",
+      "description": "Displays birthdays, anniversaries, and other event dates of people in Google Contacts.",
+      "timeZone": "Asia/Seoul",
+      "colorId": "13",
+      "backgroundColor": "#92e1c0",
+      "foregroundColor": "#000000",
+      "accessRole": "reader",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1607997896422000\"",
+      "id": "gracefulrain.co_classroomf6570233@group.calendar.google.com",
+      "summary": ">wecode 11기",
+      "timeZone": "UTC",
+      "colorId": "8",
+      "backgroundColor": "#007b83",
+      "foregroundColor": "#ffffff",
+      "accessRole": "owner",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1607998037161000\"",
+      "id": "gracefulrain.co_classroom54617d5d@group.calendar.google.com",
+      "summary": ">wecode 12기",
+      "timeZone": "UTC",
+      "colorId": "8",
+      "backgroundColor": "#202124",
+      "foregroundColor": "#ffffff",
+      "accessRole": "owner",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1608046604271000\"",
+      "id": "gracefulrain.co_classroom3fb70139@group.calendar.google.com",
+      "summary": ">wecode 13기",
+      "timeZone": "UTC",
+      "colorId": "16",
+      "backgroundColor": "#1967d2",
+      "foregroundColor": "#ffffff",
+      "accessRole": "owner",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1608174578121000\"",
+      "id": "c_classroom66843a35@group.calendar.google.com",
+      "summary": ">wecode 15기",
+      "timeZone": "UTC",
+      "colorId": "2",
+      "backgroundColor": "#d06b64",
+      "foregroundColor": "#000000",
+      "accessRole": "owner",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1608205598811000\"",
+      "id": "shlee@gracefulrain.co",
+      "summary": "shlee@gracefulrain.co",
+      "timeZone": "Asia/Seoul",
+      "colorId": "14",
+      "backgroundColor": "#9fe1e7",
+      "foregroundColor": "#000000",
+      "accessRole": "owner",
+      "defaultReminders": [
+        {
+          "method": "popup",
+          "minutes": 10
+        }
+      ],
+      "notificationSettings": {
+        "notifications": [
+          {
+            "type": "eventCreation",
+            "method": "email"
+          },
+          {
+            "type": "eventChange",
+            "method": "email"
+          },
+          {
+            "type": "eventCancellation",
+            "method": "email"
+          },
+          {
+            "type": "eventResponse",
+            "method": "email"
+          }
+        ]
+      },
+      "primary": true,
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1608209389299000\"",
+      "id": "c_classroomc788b7d6@group.calendar.google.com",
+      "summary": ">wecode 16기",
+      "timeZone": "UTC",
+      "colorId": "8",
+      "backgroundColor": "#202124",
+      "foregroundColor": "#ffffff",
+      "accessRole": "owner",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1608223785991000\"",
+      "id": "c_dddj53hd26oa2um490lmp5lb7o@group.calendar.google.com",
+      "summary": "a1",
+      "timeZone": "UTC",
+      "colorId": "21",
+      "backgroundColor": "#cca6ac",
+      "foregroundColor": "#000000",
+      "accessRole": "owner",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1608224443830000\"",
+      "id": "c_classroom5aeae169@group.calendar.google.com",
+      "summary": ">wecode 14기",
+      "timeZone": "UTC",
+      "colorId": "12",
+      "backgroundColor": "#fad165",
+      "foregroundColor": "#000000",
+      "accessRole": "owner",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1608225111982000\"",
+      "id": "c_dc8d6bkn6hofo3espi9geq9838@group.calendar.google.com",
+      "summary": "a2",
+      "timeZone": "Asia/Seoul",
+      "colorId": "9",
+      "backgroundColor": "#7bd148",
+      "foregroundColor": "#000000",
+      "accessRole": "owner",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1608225112905000\"",
+      "id": "c_il7eb5v841emvj23g6mahjiib8@group.calendar.google.com",
+      "summary": ">wecode session schedules",
+      "timeZone": "Asia/Seoul",
+      "colorId": "11",
+      "backgroundColor": "#fbe983",
+      "foregroundColor": "#000000",
+      "selected": true,
+      "accessRole": "owner",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    },
+    {
+      "kind": "calendar#calendarListEntry",
+      "etag": "\"1608226765882000\"",
+      "id": "c_einkocesqnilemck1g4v2ph4cg@group.calendar.google.com",
+      "summary": "a3",
+      "timeZone": "Asia/Seoul",
+      "colorId": "12",
+      "backgroundColor": "#fad165",
+      "foregroundColor": "#000000",
+      "selected": true,
+      "accessRole": "owner",
+      "defaultReminders": [],
+      "conferenceProperties": {
+        "allowedConferenceSolutionTypes": ["hangoutsMeet"]
+      }
+    }
+  ]
+}
